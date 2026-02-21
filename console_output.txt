@@ -1,0 +1,20 @@
+$ python3 project1_import_export_final.py
+/hpsans16/production/SuperMarioBros/reel1/partA/1920x1080 Individual: 21 Ranges: 11
+/hpsans13/production/SuperMarioBros/reel1/VFX/Hydraulx Individual: 3 Ranges: 3
+/hpsans17/production/SuperMarioBros/pickups/shot_1ab/1920x1080 Individual: 0 Ranges: 1
+/hpsans12/production/SuperMarioBros/reel1/VFX/Framestore Individual: 2 Ranges: 1
+/hpsans11/production/SuperMarioBros/reel1/partB/1920x1080 Individual: 13 Ranges: 6
+/hpsans17/production/SuperMarioBros/reel1/VFX/AnimalLogic Individual: 0 Ranges: 2
+/hpsans14/production/SuperMarioBros/pickups/shot_2b/1920x1080 Individual: 2 Ranges: 1
+
+Baselight lines read: 18
+CSV data rows written (excluding header): 66
+
+--- Rows where 3rd column is 'X' (Extra Credit) ---
+HEADER: ['Path', 'Frames', 'Mark']
+Line 10: ['/hpsans16/production/SuperMarioBros/reel1/partA/1920x1080', '1211-1214', 'X']
+Line 20: ['/hpsans16/production/SuperMarioBros/reel1/partA/1920x1080', '5155', 'X']
+Line 31: ['/hpsans16/production/SuperMarioBros/reel1/partA/1920x1080', '6282', 'X']
+Line 42: ['/hpsans12/production/SuperMarioBros/reel1/VFX/Framestore', '7847', 'X']
+Line 50: ['/hpsans11/production/SuperMarioBros/reel1/partB/1920x1080', '7845', 'X']
+Line 60: ['/hpsans11/production/SuperMarioBros/reel1/partB/1920x1080', '12200', 'X']
