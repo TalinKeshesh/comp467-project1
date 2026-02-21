@@ -1,0 +1,19 @@
+Xytech Workorder 1067
+
+Producer: Taylor Swift
+Operator: Harry Potter
+Job: Dirtfixing
+
+
+Location:
+/hpsans16/production/SuperMarioBros/reel1/partA/1920x1080
+/hpsans13/production/SuperMarioBros/reel1/VFX/Hydraulx
+/hpsans12/production/SuperMarioBros/reel1/VFX/Framestore
+/hpsans17/production/SuperMarioBros/reel1/VFX/AnimalLogic
+/hpsans11/production/SuperMarioBros/reel1/partB/1920x1080
+/hpsans17/production/SuperMarioBros/pickups/shot_1ab/1920x1080
+/hpsans14/production/SuperMarioBros/pickups/shot_2b/1920x1080
+/hpsans11/production/SuperMarioBros/reel1/partC/1920x1080
+
+Notes:
+Please clean files noted per Colorist Justin Bieber
